@@ -16,3 +16,6 @@ The company is represented by its worker. When the worker logs in, he can see al
 In the picture below you can see one preview of the nursery:
 
 ![rasadnik](https://user-images.githubusercontent.com/75175755/111889092-95933980-89e2-11eb-8ecc-e3e44d817d51.png)
+
+
+You can see all the specifications of the application in the file above.
